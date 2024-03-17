@@ -1,0 +1,390 @@
+fileFormatVersion: 2
+guid: 33907cfdbf2356f4ba3f7e65ca5556bf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4549113656908395830
+    second: Save_Birds-removebg-preview (1)_0
+  - first:
+      213: -4764051980203785456
+    second: Save_Birds-removebg-preview (1)_1
+  - first:
+      213: -4185595325207209046
+    second: Save_Birds-removebg-preview (1)_2
+  - first:
+      213: -8686763749249574026
+    second: Save_Birds-removebg-preview (1)_3
+  - first:
+      213: -6360343492114319730
+    second: Save_Birds-removebg-preview (1)_4
+  - first:
+      213: -241711435498634405
+    second: Save_Birds-removebg-preview (1)_5
+  - first:
+      213: -4575728558030041052
+    second: Save_Birds-removebg-preview (1)_6
+  - first:
+      213: -4352721507718325082
+    second: Save_Birds-removebg-preview (1)_7
+  - first:
+      213: -2689498928285995480
+    second: Save_Birds-removebg-preview (1)_8
+  - first:
+      213: 6701511570275904192
+    second: Save_Birds-removebg-preview (1)_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Save_Birds-removebg-preview (1)_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 24
+        width: 75
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acac8153b3d4ed0c0800000000000000
+      internalID: -4549113656908395830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Birds-removebg-preview (1)_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 93
+        width: 133
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013057c07ffa2edb0800000000000000
+      internalID: -4764051980203785456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Birds-removebg-preview (1)_2
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 53
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab1d7b5a37c9e5c0800000000000000
+      internalID: -4185595325207209046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Birds-removebg-preview (1)_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 53
+        width: 14
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b1d3ef46a627780800000000000000
+      internalID: -8686763749249574026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Birds-removebg-preview (1)_4
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 43
+        width: 114
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86fe0fda458bb7a0800000000000000
+      internalID: -6360343492114319730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Birds-removebg-preview (1)_5
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 53
+        width: 57
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5344f4eab445acf0800000000000000
+      internalID: -241711435498634405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Birds-removebg-preview (1)_6
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 52
+        width: 77
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4205206ae1fbf70c0800000000000000
+      internalID: -4575728558030041052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Birds-removebg-preview (1)_7
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 13
+        width: 62
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac1f36b9d60893c0800000000000000
+      internalID: -4352721507718325082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Birds-removebg-preview (1)_8
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 12
+        width: 83
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e28bb69fafcaad0800000000000000
+      internalID: -2689498928285995480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save_Birds-removebg-preview (1)_9
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 13
+        width: 57
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca277c544d800d50800000000000000
+      internalID: 6701511570275904192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Save_Birds-removebg-preview (1)_0: -4549113656908395830
+      Save_Birds-removebg-preview (1)_1: -4764051980203785456
+      Save_Birds-removebg-preview (1)_2: -4185595325207209046
+      Save_Birds-removebg-preview (1)_3: -8686763749249574026
+      Save_Birds-removebg-preview (1)_4: -6360343492114319730
+      Save_Birds-removebg-preview (1)_5: -241711435498634405
+      Save_Birds-removebg-preview (1)_6: -4575728558030041052
+      Save_Birds-removebg-preview (1)_7: -4352721507718325082
+      Save_Birds-removebg-preview (1)_8: -2689498928285995480
+      Save_Birds-removebg-preview (1)_9: 6701511570275904192
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
