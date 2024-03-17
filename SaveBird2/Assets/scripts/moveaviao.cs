@@ -31,9 +31,8 @@ public class moveaviao : MonoBehaviour
 
     void Movimento()
     {
-        transform.Translate(new Vector2(criaaviao.velocidadeAviao * Time.deltaTime, 0));
-        
-        
+        Vector2 moveAviao = new Vector2 (criaaviao.velocidadeAviao * Time.deltaTime, 0);
+        transform.Translate(moveAviao);
     }
 
     void Destroi()
