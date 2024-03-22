@@ -2,12 +2,12 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class moveaviao : MonoBehaviour
+public class PlaneMove : MonoBehaviour
 {
     //teste tag
     private GameObject pato;
 
-    private criaaviao criaaviao;
+    private PlaneCreator criaaviao;
 
     private float tempoVida = 5.0f;
     private bool feito = true;
@@ -17,7 +17,7 @@ public class moveaviao : MonoBehaviour
     void Start()
     {
         pato = GameObject.FindWithTag("pato");
-        criaaviao = criaaviao.Instance; // Obtém a referência compartilhada
+        criaaviao = PlaneCreator.Instance; // Obtém a referência compartilhada
     }
 
     void Update()

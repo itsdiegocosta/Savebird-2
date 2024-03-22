@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-public class teste : MonoBehaviour
+public class MovePlayerController : MonoBehaviour
 {
     public float followSpeed = 5f;
     public float verticalOffset = -0.5f; // Ajuste o valor conforme necessário

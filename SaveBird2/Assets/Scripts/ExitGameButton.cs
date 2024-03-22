@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class BotaoSairJogo : MonoBehaviour
+public class ExitGameButton : MonoBehaviour
 {
     
     public void botaoSair()

@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class criaaviao : MonoBehaviour
+public class PlaneCreator : MonoBehaviour
 {
-    public static criaaviao Instance; // Referência compartilhada
+    public static PlaneCreator Instance; // Referência compartilhada
 
     public GameObject aviao;
 
@@ -21,11 +21,11 @@ public class criaaviao : MonoBehaviour
 
     void Update()
     {
-        criaAviao();
+        Create();
         velocidadeAviao -= Time.deltaTime/2;
     }
 
-    private void criaAviao()
+    private void Create()
     {
         tempoCriacao -= Time.deltaTime;
         if (tempoCriacao < 0)

@@ -2,10 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class moveCoracao : MonoBehaviour
+public class circleColider : MonoBehaviour
 {
-
-    private float VelCoracao = -10f;
     // Start is called before the first frame update
     void Start()
     {
@@ -15,6 +13,6 @@ public class moveCoracao : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        transform.Translate(new Vector2 (VelCoracao*Time.deltaTime, 0));
+        
     }
 }

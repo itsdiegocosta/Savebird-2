@@ -1,8 +1,9 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
-public class destroiaviao : MonoBehaviour
+public class HistoryLoadButton : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
@@ -14,5 +15,10 @@ public class destroiaviao : MonoBehaviour
     void Update()
     {
         
+    }
+
+    public void carregaHistoriaJogo()
+    {
+        SceneManager.LoadScene("historia");
     }
 }

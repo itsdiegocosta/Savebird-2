@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-public class carregaCreditos : MonoBehaviour
+public class CreditsLooad : MonoBehaviour
 {
     public void botaoCarregaCreditos ()
     {

@@ -57,6 +57,7 @@ public class movepato : MonoBehaviour
         pontuacaoJogo();
         marcaRecord();
         carregaEstrelas();
+           
     }
 
     // métodos
@@ -67,6 +68,8 @@ public class movepato : MonoBehaviour
             if (Input.GetKeyDown(KeyCode.W))
             {
                 transform.Translate(new Vector2(0, 1));
+                
+
             }
         }
 
@@ -105,6 +108,7 @@ public class movepato : MonoBehaviour
         }
         
     }
+    
 
     void OnTriggerEnter2D(Collider2D outro)
     {
