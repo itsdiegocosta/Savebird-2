@@ -156,7 +156,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      circulo-removebg-preview_0: -3213672072255287809
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

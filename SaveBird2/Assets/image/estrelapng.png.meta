@@ -156,7 +156,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      estrelapng_0: -1807549375947587091
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
